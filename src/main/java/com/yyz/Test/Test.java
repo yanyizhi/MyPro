@@ -13,7 +13,8 @@ public class Test {
 
     public static void main(String[] args) {
         Person person = new Person();
-        person.setName("流星");
+        person.setName("流星" +
+                "ssss");
         person.setPhone(1586451564);
 
 
