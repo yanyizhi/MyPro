@@ -1,0 +1,16 @@
+Index: src/main/java/com/yyz/Test/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/yyz/Test/Test.java	(date 1597403636000)
++++ src/main/java/com/yyz/Test/Test.java	(date 1597403706724)
+@@ -13,7 +13,7 @@
+ 
+     public static void main(String[] args) {
+         Person person = new Person();
+-        person.setName("流星" +
++        person.setName("流星111" +
+                 "ssss");
+         person.setPhone(1586451564);
+ 
